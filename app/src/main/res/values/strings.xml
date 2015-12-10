@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OverlayBitmaps</string>
+    <string name="overlay">叠</string>
+    <string name="round">圆</string>
+    <string name="portable">移</string>
+    <string name="mydrawable">自定义</string>
+</resources>
